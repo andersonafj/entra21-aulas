@@ -1,4 +1,4 @@
-package br.senac.sc.exercicios01;
+package Basico.exercicios01;
 
 import java.util.Scanner;
 

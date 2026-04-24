@@ -1,4 +1,4 @@
-package br.senac.sc;
+package Basico;
 
 public class TiposPrimitivos {
     public static void main(String[] args) {
