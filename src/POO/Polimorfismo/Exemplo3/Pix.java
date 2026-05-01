@@ -1,4 +1,4 @@
-package POO.Basico.Polimorfismo.Exemplo3;
+package POO.Polimorfismo.Exemplo3;
 
 public class Pix extends MetodoPagamento{
 

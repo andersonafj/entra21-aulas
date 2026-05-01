@@ -1,4 +1,4 @@
-package POO.Basico.Polimorfismo.Exemplo2;
+package POO.Polimorfismo.Exemplo2;
 
 public class Vendedor extends Funcionario{
     private double comissao;

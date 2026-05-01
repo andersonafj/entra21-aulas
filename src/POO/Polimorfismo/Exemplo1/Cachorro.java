@@ -1,4 +1,4 @@
-package POO.Basico.Polimorfismo.Exemplo1;
+package POO.Polimorfismo.Exemplo1;
 
 public class Cachorro extends Animal {
     @Override
