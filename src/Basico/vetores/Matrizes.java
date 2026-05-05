@@ -1,4 +1,4 @@
-package br.senac.sc.vetores;
+package Basico.vetores;
 
 public class Matrizes {
     public static void main(String[] args) {

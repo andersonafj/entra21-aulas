@@ -1,4 +1,4 @@
-package br.senac.sc.vetores;
+package Basico.vetores;
 
 public class Vetores03 {
     public static void main(String[] args) {

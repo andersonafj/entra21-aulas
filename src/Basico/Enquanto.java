@@ -1,4 +1,4 @@
-package br.senac.sc;
+package Basico;
 
 import java.util.Scanner;
 

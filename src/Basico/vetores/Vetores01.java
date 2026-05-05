@@ -1,4 +1,4 @@
-package br.senac.sc.vetores;
+package Basico.vetores;
 
 import java.util.Scanner;
 
